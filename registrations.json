@@ -1,9 +1,1 @@
-{
-    "human": {
-        "record": {
-            "cname": "",
-            "a": [],
-            "redirect": ""
-        }
-    }
-}
+{"human":{"record":{"cname":"","a":[],"redirect":""}},"humann":{"cname":"testCname"}}
