@@ -2,7 +2,7 @@
     "human": {
         "record": {
             "cname": "",
-            "a": "",
+            "a": [],
             "redirect": ""
         }
     }
